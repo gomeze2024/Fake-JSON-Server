@@ -1,0 +1,127 @@
+{
+    "lists": [
+      {
+        "id": 1,
+        "title": "Friends and Family"
+      },
+      {
+        "id": 2,
+        "title": "Inspiring Media"
+      },
+      {
+        "id": 3,
+        "title": "Classes and Assignments"
+      },
+      {
+        "id": 4,
+        "title": "Creating Works"
+      },
+      {
+        "id": 5,
+        "title": "Self-care"
+      }
+    ],
+
+    "items": [
+            {
+              "id": 1,
+              "listId": 1,
+              "title": "Sibling Drawing Collaboration",
+              "rating": 9,
+              "number": 1,
+              "date": "3/16/24",
+              "location": "Parent's Living Room",
+              "image": "https://i.ytimg.com/vi/_nwYYFV03dM/maxresdefault.jpg",
+              "description": "When I went over for spring break, I got to see all of my siblings for a weekend. We drew together: we created three pieces where one of us did the sketch, another the line-art, and the last person the coloring.."
+            },
+            {
+              "id": 2,
+              "listId": 4,
+              "title": "Oshi no Ko Reddit Post",
+              "rating": 7,
+              "number": 1,
+              "date": "3/15/24",
+              "location": "Parent's Living Room",
+              "image": "https://static.wikia.nocookie.net/oshi_no_ko/images/7/76/AiYJProfile.jpg",
+              "description": "I made an AU for chapter 143 of Oshi no Ko. It was a very controversial chapter, so a lot of people were hostile. But a lot of others complimented the art. I've had a 3-year long art block, so being able to produce anything makes me happy."
+            },
+            {
+                "id": 3,
+                "listId": 2,
+                "title": "Apothecary Diaries Final Episode",
+                "rating": 9,
+                "number": 1,
+                "date": "3/23/24",
+                "location": "My Room",
+                "image": "https://i.ytimg.com/vi/qYj9l_Ezjjo/hq720.jpg",
+                "description": "Apothecary Diaries S1 has finally reached its conclusion and I really enjoyed it. The plot threads seemed disconnected at first, but they strung together like a detective story for a satisfactory watch. I also love the characters. 10/10."
+              },
+            {
+                "id": 4,
+                "listId": 3,
+                "title": "Chess Piece Animation",
+                "rating": 7,
+                "number": 1,
+                "date": "3/23/24",
+                "location": "Parent's Living Room",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/JaquesCookStaunton.jpg/290px-JaquesCookStaunton.jpg",
+                "description": "I was in charge of creating a 3D animation for a project, after boasting I had animation experience (very limited). I was very anxious about starting it and put it off till the final day of break. But then I became severely ill and couldn’t even travel back to Boston until Tuesday evening. During those days of recuperating, I got 24 frames finished. And I’m really happy with how they turned out!"
+            },
+
+            {
+                "id": 5,
+                "listId": 3,
+                "title": "MP4 Comment",
+                "rating": 8,
+                "number": 1,
+                "date": "3/22/24",
+                "location": "My Room",
+                "image": "https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/649a197d1b4c732138e85bcc_adrienn-white-branding.png",
+                "description": "On MP3, one of the graders commented “Stunning CSS” and I really appreciated it. I put a lot of love and time into my assignments when I can."
+            },
+            {
+                "id": 6,
+                "listId": 1,
+                "title": "Guilty Gears with Friends",
+                "rating": 8,
+                "number": 4,
+                "date": "3/3/24",
+                "location": "Friend's Place",
+                "image": "https://assetsio.gnwcdn.com/Bridget---Guilty-Gear-Strive-Season-2-(1).jpg",
+                "description": "I like playing Guilty Gears Strive with my friends. And it’s always fun to destroy them with Bridget’s yoyo."
+            },
+            {
+                "id": 7,
+                "listId": 4,
+                "title": "Rabbit Hole Cover",
+                "rating": 7,
+                "number": 1,
+                "date": "3/9/24",
+                "location": "Friend's Place",
+                "image": "https://glarity.app/cover-photo/xfZq2jZimbU/hqdefault.jpg",
+                "description": "I made a cover of Deco 27s Rabbit Hole using Apple airbuds. Through mixing, the sound was actually half-way decent. I really enjoy finishing covers."
+            },
+            {
+                "id": 8,
+                "listId": 2,
+                "title": "Spy x Family Latest Chapter",
+                "rating": 10,
+                "number": 1,
+                "date": "3/19/24",
+                "location": "Friend's Place",
+                "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/03/anya-and-damian-dancing-as-anya-admits-she-can-read-minds-in-spy-x-family.jpg",
+                "description": "Spy x Family has a lot of filler that’s mediocre and progresses slowly. But sometimes, it has these exceptional moments that are perfectly written for the characters. One of the later arcs and chapter 96 are the perfect example. I had a such a huge grin on my face reading it."
+            },
+            {
+                "id": 9,
+                "listId": 5,
+                "title": "Remembering to Take My Meds",
+                "rating": 9,
+                "number": 182,
+                "date": "3/25/24",
+                "location": "My Room",
+                "image": "https://geodehealth.com/wp-content/uploads/2023/05/antidepressant-med-graphic-1024x768.jpeg",
+                "description": "I’ve been on Wellbutrin for 6 months and although I still find it difficult to function up to the level of the typical person. I think it’s helped a lot.."
+            }
+    ]
+  }
